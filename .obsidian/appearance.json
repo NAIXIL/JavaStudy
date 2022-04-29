@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "文件管理-突出文件夹",
+    "一级标题居中"
+  ],
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "LXGW WenKai Screen R",
+  "textFontFamily": "LXGW WenKai Screen R",
+  "monospaceFontFamily": "LXGW WenKai Screen R"
+}

@@ -1,0 +1,12 @@
+{
+  "show-checkboxes": true,
+  "show-relative-date": true,
+  "hide-date-display": false,
+  "date-picker-week-start": 1,
+  "new-note-folder": "KanBan",
+  "show-search": false,
+  "show-board-settings": true,
+  "hide-date-in-title": true,
+  "prepend-archive-date": true,
+  "hide-tags-display": true
+}

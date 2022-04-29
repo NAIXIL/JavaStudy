@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "DL研究方向&研究资源",
+      "path": "DL/DL研究方向&研究资源.md"
+    },
+    {
+      "type": "file",
+      "title": "大论文修改记录",
+      "path": "PrivateNotes/大论文修改，答辨注意.md"
+    },
+    {
+      "type": "file",
+      "title": "OB常用快捷键",
+      "path": "OB效率使用.md"
+    },
+    {
+      "type": "file",
+      "title": "实验室建设待办",
+      "path": "Lab_issues/实验室建设待办.md"
+    },
+    {
+      "type": "file",
+      "title": "PyTorch学习笔记",
+      "path": "DL/PyTorch/PyTorch学习笔记.md"
+    },
+    {
+      "type": "file",
+      "title": "待办管理",
+      "path": "待办管理.md"
+    },
+    {
+      "type": "file",
+      "title": "待办Dataview",
+      "path": "待办Dataview.md"
+    }
+  ]
+}

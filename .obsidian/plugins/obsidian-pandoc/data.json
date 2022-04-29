@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Softwares\\Pandoc\\pandoc.exe",
+  "pdflatex": "",
+  "outputFolder": "C:\\Study\\WRITING\\naixil.github.io\\ObsidianNotes\\LX_Notes\\PDFs",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

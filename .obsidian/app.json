@@ -1,0 +1,36 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "communityThemeSortOrder": "download",
+  "attachmentFolderPath": "./assets",
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "useTab": false,
+  "autoConvertHtml": true,
+  "strictLineBreaks": true,
+  "lineWrap": true,
+  "userIgnoreFilters": [
+    "assets/"
+  ]
+}

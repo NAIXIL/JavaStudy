@@ -1,0 +1,237 @@
+{
+  "workspaces": {
+    "LX": {
+      "main": {
+        "id": "4c1b98698bcbe812",
+        "type": "split",
+        "children": [
+          {
+            "id": "d8858cb6bb021d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础知识/Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d37fc65390c9866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrivateNotes/找工作/农发待遇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dd374c0ef95b814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/数据增强/数据增强工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "721414493ad56919",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/DL研究方向&研究资源.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "557cf13202941893",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrivateNotes/大论文修改记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b85110c38515e36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrivateNotes/大论文修改记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89c21836f1675059",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "待办管理.md"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3469f2f6f984a34e",
+        "type": "split",
+        "children": [
+          {
+            "id": "f90eb0d3e59d0e81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6fa748a6c33fbb2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6ec95d6438fcedf5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "pyqt",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b8fc63ac68dc011d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 233
+      },
+      "right": {
+        "id": "c550a63f4250fc5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "df905ae9c0dcddb7",
+            "type": "tabs",
+            "dimension": 61.30790190735694,
+            "children": [
+              {
+                "id": "fdb5d05bae32877e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "PrivateNotes/大论文修改记录.md"
+                  }
+                }
+              },
+              {
+                "id": "c30f4d726acb272b",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "ae5aeed00986bba9",
+            "type": "tabs",
+            "dimension": 38.69209809264305,
+            "children": [
+              {
+                "id": "2b12280223373025",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7d227fee93723c30",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "c694120d12e2ef6a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "PrivateNotes/大论文修改记录.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "b04e793bcc4b632b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "PrivateNotes/大论文修改记录.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 276
+      },
+      "active": "b85110c38515e36a"
+    }
+  },
+  "active": "LX"
+}

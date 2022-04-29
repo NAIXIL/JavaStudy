@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "defaultNote": "待办管理",
+  "workspace": "Home",
+  "workspaceEnabled": false,
+  "hasRibbonIcon": false,
+  "openMode": "Keep open notes",
+  "view": "Default view",
+  "refreshDataview": false
+}
