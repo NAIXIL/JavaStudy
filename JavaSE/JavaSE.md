@@ -103,6 +103,31 @@ System.out.println(str9); // Yes
 
 
 # 3 流程控制
+## 3.1 选择结构
+1. if... else...
+```java
+if (判断){
+    // 执行
+}else if (判断){
+    // 执行
+}else{
+    // 执行
+}
+
+```
+2. switch
+```java
+switch(判断){
+    case 值1:
+        // 运行1
+        break; // 用于跳出switch语句，不添加会导致程序继续向下运行
+    case 值2:
+        // 运行2
+    
+}
+```
+
+
 
 
 
