@@ -115,7 +115,10 @@ if (判断){
 }
 
 ```
-2. switch
+2. switch 
+    1. 注意case只能是固定的值，不可以是表达式。
+    2. switch效率比if else更高。
+    3. 如果没有运行代码、break，则可多个值进行聚合判定。
 ```java
 switch(判断){
     case 值1:
@@ -123,10 +126,39 @@ switch(判断){
         break; // 用于跳出switch语句，不添加会导致程序继续向下运行
     case 值2:
         // 运行2
-    
+        break;
+    defalut:
+        // 运行
 }
 ```
-
+## 3.2 循环结构
+1. for
+```java
+for(int i =0; i<=5; i++){  
+    System.out.println("lixian! " + i);  
+}  
+for (int i =9; i>4; i--){  
+    System.out.println("xianli! "+ i);  
+}
+```
+2. while
+```java
+/*  
+* while 先判断，后执行  
+* do while 先执行，后判断  
+* */  
+int a0 = 5;  
+while (a0 > 1){  
+    System.out.println(a0);  
+    a0--;  
+}  
+  
+int a1 = 5;  
+do {  
+    System.out.println(a1);  
+    a1--;  
+}while (a1 > 1);
+```
 
 
 
