@@ -8,7 +8,7 @@ number headings: auto, first-level 1, max 6, 1.1
 
 
 # 1 基本数据类型
-## 1.1 范围
+## 1.1 基本数据类型范围
 1. 整数类型：
     1. byte: 8bit, -128~127
     2. short: 16bit, -32768~+32767, $-2^{15}\sim2^{15}-1$
@@ -25,3 +25,16 @@ number headings: auto, first-level 1, max 6, 1.1
 1. **类型转换：**
     1. 隐式类型转换：
         1. byte $\rightarrow$ short(char) $\rightarrow$ int $\rightarrow$ long $\rightarrow$ float $\rightarrow$ double
+
+
+字符串放在+号前面，后续的内容被当作字符串处理。
+```java
+byte a3 = 10;
+byte b3 = 126;
+
+System.out.println("lixian" + b3 + a3);
+System.out.println(b3 + a3 + "lixian" );
+System.out.println("lixian" + b3 + a3);
+> lixian12610
+> 136lixian
+```
