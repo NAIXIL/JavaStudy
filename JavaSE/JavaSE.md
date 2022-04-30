@@ -8,7 +8,7 @@ number headings: auto, first-level 1, max 6, 1.1
 
 
 # 1 基本数据类型
-## 1.1 基本数据类型范围
+## 1.1 基本数据类型
 1. 整数类型：
     1. byte: 8bit, -128~127
     2. short: 16bit, -32768~+32767, $-2^{15}\sim2^{15}-1$
@@ -22,19 +22,93 @@ number headings: auto, first-level 1, max 6, 1.1
     2. double: 64bit, 
 4. 布尔类型：boolean b = true;
 
-1. **类型转换：**
-    1. 隐式类型转换：
-        1. byte $\rightarrow$ short(char) $\rightarrow$ int $\rightarrow$ long $\rightarrow$ float $\rightarrow$ double
+## 1.2 类型转换
+
+1. 隐式类型转换：
+    - byte $\rightarrow$ short(char) $\rightarrow$ int $\rightarrow$ long $\rightarrow$ float $\rightarrow$ double
+2. 显式类型转换：
+   ```java
+   int b = 128;
+   byte a = (byte) b;
+   ```
 
 
+# 2 运算符
+## 2.1 赋值和算术运算符
+```java
+// 赋值：=
+// 算术运算符+, -, *, /, % 
+```
+### 2.1.1 +号用于拼接字符串
 字符串放在+号前面，后续的内容被当作字符串处理。
+
 ```java
 byte a3 = 10;
 byte b3 = 126;
-
 System.out.println("lixian" + b3 + a3);
 System.out.println(b3 + a3 + "lixian" );
-System.out.println("lixian" + b3 + a3);
-> lixian12610
-> 136lixian
+System.out.println("lixian" + (b3 + a3));
 ```
+运行结果：
+```shell
+lixian12610
+136lixian
+lixian136
+```
+
+## 2.2 关系运算符
+```java
+// 大于、小于、等于：> < ==
+// 大于等于、小于等于、不等于：>= <= !=
+// 比较的结果是布尔类型：true, false
+```
+
+## 2.3 逻辑运算符
+- 逻辑运算符：
+    1. 与（&&）：两边同时为真则为真，否则为假；
+    2. 或（||）：两边至少有一个为真则为真，否则为假； 
+    3. 非（!）：反转右侧表达式的真假值。
+## 2.4 位运算符
+- 位运算
+    1. 按位与，&：二进制的对应位做与运算。
+    2. 按位或，|：二进制的对应位做或运算。
+    3. 按位异或，^：二进制的对应位做异或运算。（异或：相同为0，不同为1。）
+    4. 按位非，~：二进制的每位做非运算。
+
+```java
+byte a8 = 10; // 二进制表示：1010  
+byte b8 = 15; // 二进制表示：1110  
+System.out.println(Integer.toBinaryString(a8 & b8));  
+System.out.println(Integer.toBinaryString(a8 | b8));  
+System.out.println(Integer.toBinaryString(a8 ^ b8));  
+System.out.println(Integer.toBinaryString(~a8));
+```
+输出：
+```shell
+1010
+1111
+101
+11111111111111111111111111110101
+```
+## 2.5 三目运算符
+形式：表达式（返回的值需布尔类型）? 为真的返回值 : 为假的返回值
+
+```java
+int a9 = 7;  
+int b9 =15;  
+String str9 = a9 < b9 ? "Yes" : "No";  
+System.out.println(str9); // Yes
+```
+
+
+
+# 3 流程控制
+
+
+
+
+
+
+
+
+

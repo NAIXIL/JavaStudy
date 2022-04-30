@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6a69515a352c5497",
+        "id": "82f187cc8ba57edb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -144,7 +144,7 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "6a69515a352c5497",
+  "active": "82f187cc8ba57edb",
   "lastOpenFiles": [
     "JavaSE/JavaSE.md",
     "IDEA使用相关.md",
