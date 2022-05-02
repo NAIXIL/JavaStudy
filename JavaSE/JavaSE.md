@@ -103,7 +103,7 @@ System.out.println(str9); // Yes
 
 
 # 3 流程控制
-## 3.1 选择结构
+## 3.1 选择结构if、switch
 1. if... else...
 ```java
 if (判断){
@@ -131,7 +131,7 @@ switch(判断){
         // 运行
 }
 ```
-## 3.2 循环结构
+## 3.2 循环结构for、while
 1. for
 ```java
 for(int i =0; i<=5; i++){  
@@ -160,7 +160,7 @@ do {
 }while (a1 > 1);
 ```
 
-
+**break关键字会跳出循环，执行后续语句；continue会跳过本次循环的后续语句，继续执行下一次循环。**
 
 
 
