@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaSE/JavaSE.md",
+            "file": "JavaSE/刷题-算法.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaSE/JavaSE.md"
+                "file": "JavaSE/刷题-算法.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaSE/JavaSE.md",
+                "file": "JavaSE/刷题-算法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaSE/JavaSE.md",
+                "file": "JavaSE/刷题-算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "82f187cc8ba57edb",
   "lastOpenFiles": [
+    "JavaSE/刷题-算法.md",
     "JavaSE/JavaSE.md",
     "IDEA使用相关.md",
     "计算机基础知识/Windows.md",
@@ -154,7 +155,6 @@
     "assets/image-20210705164124420-20211207205745-n08mnnd.png.md",
     "计算机基础知识/学习资源搜集.md",
     "Lab_issues/浪潮服务器使用说明.md",
-    "待办管理.md",
-    "待办Dataview.md"
+    "待办管理.md"
   ]
 }
